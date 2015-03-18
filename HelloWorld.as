@@ -9,5 +9,10 @@ Class HelloWorld
 	{
 		trace("hello world");
 	}
+	
+	public function init2():void
+	{
+		trace("test world");
+	}
 }
 }
