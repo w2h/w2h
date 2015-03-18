@@ -1,5 +1,13 @@
 ﻿package{
 Class HelloWorld
-function()
-	function get text():String
+{
+	public function HelloWorld()
+	{
+		init();
+	}
+	public function init():void
+	{
+		trace("hello world");
+	}
+}
 }
