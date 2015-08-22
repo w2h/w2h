@@ -13,6 +13,7 @@ Class HelloWorld
 	public function init2():void
 	{
 		trace("test world");
+		trace("i am test update")
 	}
 }
 }
